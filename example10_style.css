@@ -1,0 +1,24 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 30-mag-2015, 12.14.41
+    Author     : Stefano Gabriele
+*/
+
+/*BROWSER RESETS ____________________________________________________________ */
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+
+#texCanvasWrapper{
+    height: 100%;
+    width: 100%;
+    background-color: green;
+}
+
